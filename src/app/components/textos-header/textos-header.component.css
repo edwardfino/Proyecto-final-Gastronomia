@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 60px;
+    
+    
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 300;
+}
